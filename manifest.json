@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Funtime3Freddy3 Extension",
+  "description": "Your favourite fat ass polar bear musical artist extension",
+  "version": "1.0.0",
+  "author": "Cristi Macovei",
+  "icons": {
+    "16": "assets/logo.png",
+    "48": "assets/logo.png",
+    "128": "assets/logo.png"
+  },
+  "action": {
+    "default_popup": "popup/index.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
