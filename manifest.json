@@ -11,8 +11,5 @@
   },
   "action": {
     "default_popup": "popup/index.html"
-  },
-  "permissions": [
-    "tabs"
-  ]
+  }
 }
